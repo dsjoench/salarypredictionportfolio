@@ -1,7 +1,7 @@
 ## Salary Prediction Portfolio (Python)
 
 ### Goal 
-This project aims to predict salary from job description
+This project aims to developed and deployed a salary prediction application which business’ HR and talent acquisition can use to optimize their compensation strategy, acquire the best talent and improve retention rate in competitive labor market. It answers the question on what is an optimal salary range based on different factors such as job title, years of experience, degree, etc.
 
 ### Dataset Information
 The dataset are split into 3 different CSV files. 1. Training data 2. Test data 3. Target variable - Salary. There are 1 million observation and 9 features in total.
@@ -14,9 +14,9 @@ This notebook demonstrates the entire data science process of building a predict
 3. Models built using linear regression, random forest, and gradient boosting. 
 4. Models tuning using parameters such as n_estimators, learning rate, tree depth. 
 5. Cross validation and select the best model with the lowest Mean Square Error (MSE). 
-      - Linear Regression : 908
+      - Linear Regression : 380
       - Random Forest: 411
-      - Gradient Boosting: 367
+      - Gradient Boosting: 358
   Gradient Boosting turns out to have the lowest MSE on the Cross Validation. Upon predicting on the test dataset, it achieves 358 on the final model.
 
 6. Feature importance data visualization 
