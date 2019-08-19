@@ -23,7 +23,7 @@ This notebook demonstrates the entire data science process of building a predict
 7. Deploy and save the final model into production using Pipeline.
 
 
-### Here is the [Link] (https://github.com/dsjoench/salarypredictionportfolio/blob/master/Salary%20Prediction%20Portfolio%20.ipynb)to my codes
+### Here is the [Link](https://github.com/dsjoench/salarypredictionportfolio/blob/master/Salary%20Prediction%20Portfolio%20.ipynb) to my codes
       
 ### 
 
