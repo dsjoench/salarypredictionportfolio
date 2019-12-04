@@ -9,11 +9,17 @@ The dataset are split into 3 different CSV files. 1. Training data 2. Test data 
 
 ### Features
 Years Experience: How many years of experience
+
 Job Type: The position held (CEO, CFO, CTO, Vice President, Manager, Janitor, and senior or junior position)
+
 College Degree: Doctoral, Masters, Bachelors, High School, or None
+
 College Major: Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None
+
 Industry: Auto, Education, Finance, Health, Oil, Service, or Web
+
 Miles From Metropolis: How many miles away from a major city
+
 
 ### Background
 This notebook demonstrates the entire data science process of building a predictive model that can hypothetically used by HR to estimate perspective employees' compensation. The processes involving defining the problem, preprocessing data, EDA, developing model, and deploying into production have been divided into main sections. Salary range tends to vary, depending on many factors such as experiences, education, previous job title, etc. This predictive analysis aims to build a scalable and deployable model to predict salary. Here are the breakdown of my project.
