@@ -1,7 +1,7 @@
 ## Salary Prediction Portfolio (Python)
 
 ### Goal 
-This project aims to developed and deployed a salary prediction application which business’ HR and talent acquisition can use to optimize their compensation strategy, acquire the best talent and improve retention rate in competitive labor market. It answers the question on what is an optimal salary range based on different factors such as job title, years of experience, degree, etc.
+This project aims to develop and deploy a salary prediction application which business’ HR and talent acquisition can use to optimize their compensation strategy, acquire the best talent and improve retention rate in competitive labor market. It answers the question on what is an optimal salary range based on different factors such as job title, years of experience, degree, etc.
 
 
 ### Dataset Information
